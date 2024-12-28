@@ -42,7 +42,7 @@ python stereo_visual_odometry.py
 - **Trajectory Plot**:
 <p align="center">
   <img src="assets/mono_vo.png" alt="Monocular VO Trajectory" width="800" />
-</p>s
+</p>
 
 - **Error Plot**:
 <p align="center">
@@ -53,7 +53,7 @@ python stereo_visual_odometry.py
 - **Trajectory Plot**:
 <p align="center">
   <img src="assets/stereo_vo.png" alt="Stereo VO Trajectory" width="800" />
-</p>s
+</p>
 
 - **Error Plot**:
 <p align="center">
