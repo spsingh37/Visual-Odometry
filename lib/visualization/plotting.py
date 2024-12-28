@@ -94,6 +94,6 @@ def plot_sparsity(sparse_mat):
 
     ax.spy(sparse_mat, aspect="auto", markersize=0.02)
     plt.xlabel("Parameters")
-    plt.ylabel("Resudals")
+    plt.ylabel("Residuals")
 
     plt.show()
